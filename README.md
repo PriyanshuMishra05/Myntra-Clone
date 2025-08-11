@@ -35,3 +35,4 @@ ESLint rules follow React’s recommended settings, with some custom tweaks.
 
 You can connect it to a backend or mock API for real product data.
 
+@Priyanshu Mishra
